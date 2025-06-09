@@ -52,8 +52,8 @@ a {
 
 .profile img {
 	border: 1px solid #c79fe8;
-	display: inline;
-	float: left;
+	/*display: inline;*/
+    width: 100px;
 	margin-bottom: 12px;
 	margin-right: 6px;
 }
@@ -67,7 +67,8 @@ a {
     background-color: #f2e2ff;
 	padding: 12px;
 	border-top: 8px solid #c79fe8;
-	min-height: 100px;
+	min-height: 110px;
+
 }
 
 

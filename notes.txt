@@ -1,32 +1,4 @@
-					<li><a href="#">Rachel’s Home for Imaginary Friends // Bao</a></li>
-				  <li><a href="#">Tales from the Loop</a></li>
-          <li><a href="#">Kipple</a></li>
-					<li><a href="#">Sigil Study</a></li>
-					<li><a href="#">Sonic Synergies</a></li>
-					<li><a href="#">Mystical Mysterium</a></li>
-					<li><a href="#">8-Bit Easter Egg</a></li>
-					<li><a href="#">Holding the Universe Together</a></li>
-					<li><a href="#">Mechanical Ballerina</a></li>
-					<li><a href="#">Hat Synth</a></li>
-					<li><a href="#">Take a Deep Breath ~ Echoes in Resonance</a></li>
-					<li><a href="#">Skyscapes // The Night Shines for You</a></li>
-					<li><a href="#">IRIS</a></li>
-					<li><a href="#">Chance Encounters</a></li>
-					<li><a href="#">Is It Cold Where You Are?</a></li>
-					<li><a href="#">Grocery Piece</a></li>
-					<li><a href="#">The Celestial Garden</a></li>
-					<li><a href="#">New Voices</a></li>
-					<li><a href="#">Suspended in a Sunbeam</a></li>
-					<li><a href="#">Sonatas and Partitas for Theremin</a></li>
-					<li><a href="#">The Theremin Textural Expander</a></li>
-					<li><a href="#">Dream Worlds</a></li>
-
-
-                    	<ul>
-					<li><a href="#">Elemental Ephemera</a></li>
-				  <li><a href="#">Flower Power</a></li>
-				  <li><a href="#">The In-Between</a></li>
-				</ul>
+					
 
                 <li><a href="#">Crafting Technology + History</a></li>
 				  <li><a href="#">Bite Size DSP</a></li>
