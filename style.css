@@ -1,0 +1,161 @@
+body {
+	background-color: #fff;
+	color: #000;
+		font-family: "Roboto Mono", monospace;
+		font-optical-sizing: auto;
+		font-weight: normal;
+		font-style: normal;
+		font-size: 12px;
+		margin: 0;
+		padding: 0;
+		background-image: url('bg.gif');
+		background-repeat: repeat-x;
+}
+
+a {
+	color: #000;
+}
+
+.sidebar {
+    width: 250px;
+    min-height: 100%;
+    background-color: #fff;
+    border-right: 5px dashed #c79fe8;
+    padding: 2rem 2rem;
+    position: fixed;
+    overflow: auto;
+}
+
+.post-list a {
+	display: block;
+	text-decoration: none;
+}
+
+.post-list a:before {
+	content: "\00b7";
+	margin-left: -12px;
+	width: 14px;
+	display: inline-block;
+}
+
+.title {
+	font-size: 32px;
+	font-weight: bold;
+	letter-spacing: 4px;
+	font-variant: small-caps;
+}
+
+.subtitle {
+	margin-bottom: 24px;
+	font-style: italic;
+}
+
+.profile img {
+	border: 1px solid #c79fe8;
+	display: inline;
+	float: left;
+	margin-bottom: 12px;
+	margin-right: 6px;
+}
+
+.profile .profile-desc {
+	display: inline;
+}
+
+.profile {
+	border: 1px solid #c79fe8;
+    background-color: #f2e2ff;
+	padding: 12px;
+	border-top: 8px solid #c79fe8;
+	min-height: 100px;
+}
+
+
+.menu a {
+	border: 1px solid #000;
+	text-decoration: none;
+	padding: 4px;
+	display: inline-block;
+	margin-bottom: 6px;
+}
+
+.white {
+    background-color: #fff;
+}
+.pink {
+    background-color: #ffdef2;
+}
+
+.blue {
+    background-color: #e2eeff
+}
+
+.aqua {
+    background-color: #ddfffc
+}
+
+.yellow {
+    background-color: #ffffe3
+}
+
+.green {
+    background-color: #e5ffe4
+}
+
+.orange {
+    background-color: #ffead7
+}
+.purple{
+
+    background-color: #f2e2ff;
+}
+.menu a:hover {
+	font-weight: bold;
+}
+
+.sidebar a:hover {
+	text-decoration: underline;
+}
+
+iframe {
+	height: 100%;
+	width: 100%;
+	border: none;
+}
+
+.main {
+    position: absolute;
+    height: 100vh;
+    width: calc(100% - 316px);
+    margin-left: 316px;
+    box-sizing: border-box;
+}
+
+.page {
+	padding: 24px;
+	padding-right: 40vw;
+}
+
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+::-webkit-scrollbar-track {
+  background: #ffffe3; 
+}
+ 
+::-webkit-scrollbar-thumb {
+  background: #ffdef2; 
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #ffb5e1; 
+}
+
+h1 {
+	/*font-variant: small-caps;*/
+	border-bottom: 2px dashed #ffb5e1;
+	font-size:20px;
+	letter-spacing: 4px;
+
+}
